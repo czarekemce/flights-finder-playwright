@@ -6,9 +6,9 @@ In that case, I am looking for some flights to Tenerife Island within 25.09 - 15
 
 To run, you need to type in the terminal:
 
-npm install
+- npm install
 
-npm run search
+- npm run search
 
 
 Then, all the prices should be in the ceny.txt file.
